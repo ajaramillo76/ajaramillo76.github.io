@@ -7,6 +7,6 @@ I would also like to continue learning other languages such as C# and Python.  A
 
 ## Projects
 
-* [Cards](https://github.com/ajaramillo76/cards)
-* [Mystery Pattern](https://github.com/ajaramillo76/mystery-pattern)
-* [Temp Converter](https://github.com/ajaramillo76/temp-convert)
+* ["Homestead" Capstone Project](https://team-homestead.github.io/)
+* ["Can You Beat Rps" Personal Android Project](https://github.com/ajaramillo76/can-you-beat-rps-v2)
+* [Nasa APoD](https://github.com/ajaramillo76/qod-v4)
